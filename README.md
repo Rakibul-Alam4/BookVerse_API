@@ -14,4 +14,4 @@ It demonstrates how to build, validate, and handle data in Python using FastAPI,
 📅 Retrieve books by published year
 ➕ Create (Add) new books
 ✏️ Update existing books
-❌ Delete books from the collection
+❌ Delete books from the collection 
